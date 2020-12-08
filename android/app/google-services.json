@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "738576921046",
+    "firebase_url": "https://final-shoop.firebaseio.com",
+    "project_id": "final-shoop",
+    "storage_bucket": "final-shoop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738576921046:android:ce2d98120c6361d2e8f477",
+        "android_client_info": {
+          "package_name": "com.example.finalshopapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738576921046-7sqola41c8s781b8ma92us10scl9vt4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO-GHA15tNSXVxOc8yaHTN0BFd5KTOzAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738576921046-7sqola41c8s781b8ma92us10scl9vt4h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
